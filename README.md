@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">⚡ Varionox</h1>
 
-<!--
-**Varionox/varionox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🧱 Full-Stack Developer • 🧠 AI Engineer • ⚓ Mariner turned Builder  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 About Me
+
+- 🌊 Former SDPO / Chief Mate now writing code from the depths
+- 🧠 Founder of [NeptuneX](#) — Maritime + AI Ecosystem
+- 💻 Currently building with Laravel, Flutter, Vue3, Inertia, and AI Agents
+- 🎯 Mission: Automate the impossible. Engineer the future.
+
+---
+
+### 🔧 Tech Stack
+
+![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel)
+![Vue](https://img.shields.io/badge/-Vue3-4FC08D?style=flat&logo=vue.js)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
+---
+
+📫 **Reach Me:** varionox@gmail.com
