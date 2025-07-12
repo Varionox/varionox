@@ -8,8 +8,7 @@
 
 ### 🧩 About Me
 
-- 🌊 Former SDPO / Chief Mate now writing code from the depths
-- 🧠 Founder of [NeptuneX](#) — Maritime + AI Ecosystem
+- 🌊 Former Mariner now writing code from the depths
 - 💻 Currently building with Laravel, Flutter, Vue3, Inertia, and AI Agents
 - 🎯 Mission: Automate the impossible. Engineer the future.
 
